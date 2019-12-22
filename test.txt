@@ -1,0 +1,3 @@
+Hello! from toricode.com
+This file to test Python text file reading.
+Happy Coding!
